@@ -40,3 +40,32 @@ For each motor feeder:
 - 125% motor duty consideration
 - Automatic parallel run logic
 - Output in practical format:
+
+
+
+---
+
+## 🖥 GUI Preview
+
+<img src="pcc_mcc panel tool by_haripal_singh.png" width="700">
+
+## ⚙️ Technologies Used
+
+- Python
+- Tkinter (GUI)
+- Electrical Design Standards (IEC – LT panel practices)
+
+---
+
+## 🧠 Engineering Logic Implemented
+
+- 3Ø FLC = P / (√3 × V × PF × η)
+- Demand load calculation
+- Standard MCCB rating selection
+- 125% busbar sizing for future load
+- PF correction using reactive power compensation
+- Motor cable sizing using 1.25 × FLC rule
+
+---
+
+## 📂 Project Structure
