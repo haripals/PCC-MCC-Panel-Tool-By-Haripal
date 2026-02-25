@@ -75,12 +75,60 @@ It replicates real EPC workflow for:
 - Python
 - Tkinter
 - IEC based LT panel design practices
+  
+
 
 ---
 
 ## ▶️ How to Run
+---
+1️⃣ Install Python (3.x)
+--
+2️⃣ Clone the repository:
+---
+git clone 
+https://github.com/haripals/PCC-MCC-Panel-Tool-By-Haripal.git
 
-```bash
-git clone https://github.com/your-username/pcc-mcc-panel-calculation-tool.git
-cd pcc-mcc-panel-calculation-tool
-python main.py
+3️⃣ Run the program:
+---
+pcc_mcc_tool.py
+
+
+## 🎯 Application in Real Projects
+
+This tool can be used for:
+
+- PCC panel design
+- MCC panel feeder sizing
+- Load list preparation
+- GA & BOM engineering calculations
+- APFC capacitor estimation
+
+---
+
+## 📌 Future Enhancements
+
+- Transformer & DG incomer mode
+- ACB selection logic
+- Short circuit calculation
+- Voltage drop calculation
+- Excel load list import/export
+- PDF report generation
+
+---
+
+## 👨‍💻 Author
+
+**Haripal Singh**  
+Electrical Panel Design Engineer  
+
+- 💼 Focus: PCC | MCC | LT Panel Design  
+- 🐍 Python for Electrical Engineering  
+
+---
+
+## ⭐ Support
+
+If you find this project useful:
+
+Give it a ⭐ on GitHub and share with fellow electrical engineers.
