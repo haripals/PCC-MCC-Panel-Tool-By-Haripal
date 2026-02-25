@@ -91,7 +91,7 @@ https://github.com/haripals/PCC-MCC-Panel-Tool-By-Haripal.git
 
 3️⃣ Run the program:
 ---
-pcc_mcc_tool.py
+App_Panel_tool.py
 
 
 ## 🎯 Application in Real Projects
