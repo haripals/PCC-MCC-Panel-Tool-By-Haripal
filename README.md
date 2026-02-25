@@ -26,7 +26,7 @@ It replicates real EPC workflow for:
 
 ## 🖥 GUI Preview
 
-<img src="screenshot.png" width="800">
+<img src="pcc_mcc panel tool by_haripal_singh.png" width="800">
 
 ---
 
